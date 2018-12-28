@@ -1,0 +1,97 @@
+  #imagen {
+  height: 350px;
+  width: 1100px;
+  text-align: center;
+
+}
+#eslogan{
+text-align: center;
+color:white;
+background-color: #DB16BD
+}
+#explicacion{
+  text-align: center;
+  color: white;
+  background-color: #008C6A;
+}
+body {
+  background-image: url("../imagenes/fondo2.jpg");
+  color: red;
+}
+#carouselExampleControls{
+  height:400px;
+  width:500px;
+}
+.p1 {
+  font-size: 20px;
+  font-family: serif;
+}
+
+
+#makeup{
+  text-align: center;
+  font-style: italic;
+}
+#video1{
+  text-align: center;
+}
+
+#menu{
+  background-image: url(../imagenes/fondo3.png);
+  font-size: 20px;
+  
+}
+.letras{
+  color: white;
+}
+#makeup1{
+  font-size: 25px;
+  font-family: serif;
+}
+#marquee{
+  background-color: #ff4d94;
+}
+
+#code {
+  height: 300px;
+  width: :300px;
+}
+.nombre{
+  text-align: center;
+}
+.opinion{
+  font-size: 20px;
+  font-family: serif;
+}
+#fotos{
+  height: 200px;
+  width: :200px;
+}
+#fotos1{
+  height: 150px;
+  width: :200px;
+}
+#fotos2{
+  height: 300px;
+  width: :300px;
+}
+#fotos3{
+  height: 150px;
+  width: :1000px;
+}
+.iconos{
+  height: 10px;
+  width: 1px;
+}
+.iconos1{
+  height: 10px;
+  width: 10px;
+}
+.iconos2{
+  height: 10px
+  width: 10px;
+}
+#botones img{
+  height: 60px;
+  width: 60px;
+}
